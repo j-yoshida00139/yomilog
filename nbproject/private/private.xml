@@ -1,4 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Controllers/HomeController.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Jobs/Job.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/auth/passwords/email.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/login.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Controllers/UserController.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/auth/login.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/routes.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/auth/register.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/composer.json</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/users/index.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/config/session.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/config/app.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/config/view.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/auth/emails/password.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Controllers/Auth/PasswordController.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/auth/passwords/reset.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Requests/Request.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Kernel.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/signup.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/layouts/app.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Middleware/EncryptCookies.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Middleware/VerifyCsrfToken.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/welcome.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/resources/views/home.blade.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Middleware/RedirectIfAuthenticated.php</file>
+            <file>file:/Users/yoshida/work/VagrantProject/Homestead_tutorial/Code/Laravel/app/Http/Controllers/Controller.php</file>
+        </group>
+    </open-files>
 </project-private>
